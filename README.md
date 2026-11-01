@@ -97,7 +97,7 @@ I build detection labs on my own time: an **Active Directory + Splunk lab** with
 - 📧 [shreybista8@gmail.com](mailto:shreybista8@gmail.com)
 - 📞 737-226-8401
 - 💼 [LinkedIn](https://www.linkedin.com/in/shreya-bista-b466a724a)
-- 🌐 [Portfolio](https://claude.ai/artifact/MHqQDV4xyrhCUs239xYkBP)
+- 🌐 [Portfolio](https://shreyabista47-blip.github.io/Portfolio/)
 - 📍 Herndon, VA · U.S. Permanent Resident (Green Card)
 
 ---
